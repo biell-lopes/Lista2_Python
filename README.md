@@ -1,5 +1,5 @@
 # Lista2_Python
-<h1>Lista de Exercícios 2 - Estrutura de repetição</h1>
+## Lista de Exercícios 2 - Estrutura de repetição<h2>
 
 
 
